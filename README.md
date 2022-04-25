@@ -10,7 +10,7 @@ composer install
 npm install
 cp .env.example .env
 ```
-2. Create a new database and migrate
+2. Create a new database and then migrate
 
 ```bash
 php artisan migrate
